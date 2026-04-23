@@ -1,3 +1,4 @@
+using System.Runtime.InteropServices.Marshalling;
 using Doke.Pokedex.Enum;
 
 namespace Doke.Pokedex.Models;
@@ -16,6 +17,11 @@ public class Pokemon
             return false;
 
         return true;
+    }
+
+    public Attack Attack(Pokemon target)
+    {
+        throw new NotImplementedException();
     }
 }
 
