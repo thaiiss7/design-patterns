@@ -1,10 +1,11 @@
-public class Aplication(IFactory factory)
+public class Aplication(string type, Factory factory)
 {
-    private IFactory Factory = factory;
+    private string Type = type;
+    private Factory Factory = factory;
 
     public void Logic()
     {
-        Factory.CreateButton();
-        Factory.CreateCheckbox();
+        Factory.CreateButton(Type);
+        // Factory.CreateCheckbox();
     } 
 }
