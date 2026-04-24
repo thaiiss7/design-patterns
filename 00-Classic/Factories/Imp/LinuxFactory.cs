@@ -5,4 +5,10 @@ public class LinuxFactory : IFactory
         Console.WriteLine("BOTÃO LINUX");
         return new LinuxButton();
     }
+
+    public ICheckbox CreateCheckbox()
+    {
+        Console.WriteLine("CHECKBOX LINUX");
+        return new LinuxCheckbox();
+    }
 }

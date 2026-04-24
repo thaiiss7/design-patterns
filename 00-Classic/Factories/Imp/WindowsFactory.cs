@@ -5,4 +5,10 @@ public class WindowsFactory : IFactory
         Console.WriteLine("BOTÃO WINDOWS");
         return new WindowsButton();
     }
+
+    public ICheckbox CreateCheckbox()
+    {
+        Console.WriteLine("CHECKBOX WINDOWS");
+        return new WindowCheckbox();
+    }
 }

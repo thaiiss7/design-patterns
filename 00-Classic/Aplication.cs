@@ -5,5 +5,6 @@ public class Aplication(IFactory factory)
     public void Logic()
     {
         Factory.CreateButton();
+        Factory.CreateCheckbox();
     } 
 }
