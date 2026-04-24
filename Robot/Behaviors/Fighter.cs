@@ -1,7 +1,7 @@
 using Robot.Behaviors;
 using Robot.Models;
 
-public class Walker : IBehavior
+public class Fighter : IBehavior
 {
     public string Execute(Robo robot)
     {
@@ -9,10 +9,7 @@ public class Walker : IBehavior
 
         if (chance < 6)
             robot.Behavior = new Hacked();
-        
-        if (chance >= 6 && chance < 21)
-            robot.Behavior = new Fighter();
             
-        return "andando...";
+        return "COMBATE...";
     }
 }

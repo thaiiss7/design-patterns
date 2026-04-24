@@ -4,5 +4,5 @@ namespace Robot.Behaviors;
 
 public interface IBehavior
 {
-    string Execute();   
+    string Execute(Robo robot);   
 }
