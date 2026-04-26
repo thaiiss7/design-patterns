@@ -1,0 +1,44 @@
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\obj\Debug\net9.0-windows\Lady.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\obj\Debug\net9.0-windows\Lady.AssemblyInfoInputs.cache
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\obj\Debug\net9.0-windows\Lady.AssemblyInfo.cs
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\obj\Debug\net9.0-windows\Lady.csproj.CoreCompileInputs.cache
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\obj\Debug\net9.0-windows\Lady.sourcelink.json
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\bin\Debug\net9.0-windows\Lady.exe
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\bin\Debug\net9.0-windows\Lady.deps.json
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\bin\Debug\net9.0-windows\Lady.runtimeconfig.json
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\bin\Debug\net9.0-windows\Lady.dll
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\bin\Debug\net9.0-windows\Lady.pdb
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\obj\Debug\net9.0-windows\Lady.dll
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\obj\Debug\net9.0-windows\refint\Lady.dll
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\obj\Debug\net9.0-windows\Lady.pdb
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\obj\Debug\net9.0-windows\Lady.genruntimeconfig.cache
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\obj\Debug\net9.0-windows\ref\Lady.dll
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\bin\Debug\net9.0-windows\Lady.exe
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\bin\Debug\net9.0-windows\Lady.deps.json
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\bin\Debug\net9.0-windows\Lady.runtimeconfig.json
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\bin\Debug\net9.0-windows\Lady.dll
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\bin\Debug\net9.0-windows\Lady.pdb
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\obj\Debug\net9.0-windows\Lady.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\obj\Debug\net9.0-windows\Lady.AssemblyInfoInputs.cache
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\obj\Debug\net9.0-windows\Lady.AssemblyInfo.cs
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\obj\Debug\net9.0-windows\Lady.csproj.CoreCompileInputs.cache
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\obj\Debug\net9.0-windows\Lady.sourcelink.json
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\obj\Debug\net9.0-windows\Lady.dll
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\obj\Debug\net9.0-windows\refint\Lady.dll
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\obj\Debug\net9.0-windows\Lady.pdb
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\obj\Debug\net9.0-windows\Lady.genruntimeconfig.cache
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\obj\Debug\net9.0-windows\ref\Lady.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\4 - Aprendizes\2 - Desenvolvimento de Sistemas\6 - Soluções Digitais 2025\1 - Arquivos Compartilhados\12. DesignPatterns\02-Aula\Lady\obj\Debug\net9.0-windows\Lady.GeneratedMSBuildEditorConfig.editorconfig
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\4 - Aprendizes\2 - Desenvolvimento de Sistemas\6 - Soluções Digitais 2025\1 - Arquivos Compartilhados\12. DesignPatterns\02-Aula\Lady\obj\Debug\net9.0-windows\Lady.AssemblyInfoInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\4 - Aprendizes\2 - Desenvolvimento de Sistemas\6 - Soluções Digitais 2025\1 - Arquivos Compartilhados\12. DesignPatterns\02-Aula\Lady\obj\Debug\net9.0-windows\Lady.AssemblyInfo.cs
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\4 - Aprendizes\2 - Desenvolvimento de Sistemas\6 - Soluções Digitais 2025\1 - Arquivos Compartilhados\12. DesignPatterns\02-Aula\Lady\obj\Debug\net9.0-windows\Lady.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\4 - Aprendizes\2 - Desenvolvimento de Sistemas\6 - Soluções Digitais 2025\1 - Arquivos Compartilhados\12. DesignPatterns\02-Aula\Lady\obj\Debug\net9.0-windows\Lady.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\4 - Aprendizes\2 - Desenvolvimento de Sistemas\6 - Soluções Digitais 2025\1 - Arquivos Compartilhados\12. DesignPatterns\02-Aula\Lady\obj\Debug\net9.0-windows\refint\Lady.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\4 - Aprendizes\2 - Desenvolvimento de Sistemas\6 - Soluções Digitais 2025\1 - Arquivos Compartilhados\12. DesignPatterns\02-Aula\Lady\obj\Debug\net9.0-windows\Lady.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\4 - Aprendizes\2 - Desenvolvimento de Sistemas\6 - Soluções Digitais 2025\1 - Arquivos Compartilhados\12. DesignPatterns\02-Aula\Lady\bin\Debug\net9.0-windows\Lady.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\4 - Aprendizes\2 - Desenvolvimento de Sistemas\6 - Soluções Digitais 2025\1 - Arquivos Compartilhados\12. DesignPatterns\02-Aula\Lady\bin\Debug\net9.0-windows\Lady.deps.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\4 - Aprendizes\2 - Desenvolvimento de Sistemas\6 - Soluções Digitais 2025\1 - Arquivos Compartilhados\12. DesignPatterns\02-Aula\Lady\bin\Debug\net9.0-windows\Lady.runtimeconfig.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\4 - Aprendizes\2 - Desenvolvimento de Sistemas\6 - Soluções Digitais 2025\1 - Arquivos Compartilhados\12. DesignPatterns\02-Aula\Lady\bin\Debug\net9.0-windows\Lady.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\4 - Aprendizes\2 - Desenvolvimento de Sistemas\6 - Soluções Digitais 2025\1 - Arquivos Compartilhados\12. DesignPatterns\02-Aula\Lady\bin\Debug\net9.0-windows\Lady.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\4 - Aprendizes\2 - Desenvolvimento de Sistemas\6 - Soluções Digitais 2025\1 - Arquivos Compartilhados\12. DesignPatterns\02-Aula\Lady\obj\Debug\net9.0-windows\Lady.genruntimeconfig.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\4 - Aprendizes\2 - Desenvolvimento de Sistemas\6 - Soluções Digitais 2025\1 - Arquivos Compartilhados\12. DesignPatterns\02-Aula\Lady\obj\Debug\net9.0-windows\ref\Lady.dll
