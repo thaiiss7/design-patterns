@@ -42,3 +42,18 @@ S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\4 - Aprendizes\2 -
 S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\4 - Aprendizes\2 - Desenvolvimento de Sistemas\6 - Soluções Digitais 2025\1 - Arquivos Compartilhados\12. DesignPatterns\02-Aula\Lady\bin\Debug\net9.0-windows\Lady.pdb
 S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\4 - Aprendizes\2 - Desenvolvimento de Sistemas\6 - Soluções Digitais 2025\1 - Arquivos Compartilhados\12. DesignPatterns\02-Aula\Lady\obj\Debug\net9.0-windows\Lady.genruntimeconfig.cache
 S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\4 - Aprendizes\2 - Desenvolvimento de Sistemas\6 - Soluções Digitais 2025\1 - Arquivos Compartilhados\12. DesignPatterns\02-Aula\Lady\obj\Debug\net9.0-windows\ref\Lady.dll
+C:\Users\thais\Desktop\design-patterns\Lady\bin\Debug\net9.0-windows\Lady.exe
+C:\Users\thais\Desktop\design-patterns\Lady\bin\Debug\net9.0-windows\Lady.deps.json
+C:\Users\thais\Desktop\design-patterns\Lady\bin\Debug\net9.0-windows\Lady.runtimeconfig.json
+C:\Users\thais\Desktop\design-patterns\Lady\bin\Debug\net9.0-windows\Lady.dll
+C:\Users\thais\Desktop\design-patterns\Lady\bin\Debug\net9.0-windows\Lady.pdb
+C:\Users\thais\Desktop\design-patterns\Lady\obj\Debug\net9.0-windows\Lady.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais\Desktop\design-patterns\Lady\obj\Debug\net9.0-windows\Lady.AssemblyInfoInputs.cache
+C:\Users\thais\Desktop\design-patterns\Lady\obj\Debug\net9.0-windows\Lady.AssemblyInfo.cs
+C:\Users\thais\Desktop\design-patterns\Lady\obj\Debug\net9.0-windows\Lady.csproj.CoreCompileInputs.cache
+C:\Users\thais\Desktop\design-patterns\Lady\obj\Debug\net9.0-windows\Lady.sourcelink.json
+C:\Users\thais\Desktop\design-patterns\Lady\obj\Debug\net9.0-windows\Lady.dll
+C:\Users\thais\Desktop\design-patterns\Lady\obj\Debug\net9.0-windows\refint\Lady.dll
+C:\Users\thais\Desktop\design-patterns\Lady\obj\Debug\net9.0-windows\Lady.pdb
+C:\Users\thais\Desktop\design-patterns\Lady\obj\Debug\net9.0-windows\Lady.genruntimeconfig.cache
+C:\Users\thais\Desktop\design-patterns\Lady\obj\Debug\net9.0-windows\ref\Lady.dll

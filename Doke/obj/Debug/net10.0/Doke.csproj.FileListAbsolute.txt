@@ -1,0 +1,15 @@
+C:\Users\thais\Desktop\design-patterns\Doke\bin\Debug\net10.0\Doke.exe
+C:\Users\thais\Desktop\design-patterns\Doke\bin\Debug\net10.0\Doke.deps.json
+C:\Users\thais\Desktop\design-patterns\Doke\bin\Debug\net10.0\Doke.runtimeconfig.json
+C:\Users\thais\Desktop\design-patterns\Doke\bin\Debug\net10.0\Doke.dll
+C:\Users\thais\Desktop\design-patterns\Doke\bin\Debug\net10.0\Doke.pdb
+C:\Users\thais\Desktop\design-patterns\Doke\obj\Debug\net10.0\Doke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais\Desktop\design-patterns\Doke\obj\Debug\net10.0\Doke.AssemblyInfoInputs.cache
+C:\Users\thais\Desktop\design-patterns\Doke\obj\Debug\net10.0\Doke.AssemblyInfo.cs
+C:\Users\thais\Desktop\design-patterns\Doke\obj\Debug\net10.0\Doke.csproj.CoreCompileInputs.cache
+C:\Users\thais\Desktop\design-patterns\Doke\obj\Debug\net10.0\Doke.sourcelink.json
+C:\Users\thais\Desktop\design-patterns\Doke\obj\Debug\net10.0\Doke.dll
+C:\Users\thais\Desktop\design-patterns\Doke\obj\Debug\net10.0\refint\Doke.dll
+C:\Users\thais\Desktop\design-patterns\Doke\obj\Debug\net10.0\Doke.pdb
+C:\Users\thais\Desktop\design-patterns\Doke\obj\Debug\net10.0\Doke.genruntimeconfig.cache
+C:\Users\thais\Desktop\design-patterns\Doke\obj\Debug\net10.0\ref\Doke.dll
